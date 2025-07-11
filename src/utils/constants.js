@@ -11,5 +11,3 @@ export const  OPTIONS = {
 };
 
 export const IMG_URL_CDN = 'https://image.tmdb.org/t/p/w500'
-
-export const OPEN_API = "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"
