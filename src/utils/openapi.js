@@ -1,10 +1,10 @@
-import OpenAI from 'openai';
-import { OPEN_API } from './constants';
+// import OpenAI from 'openai';
+// import { OPEN_API } from './constants';
 
-const openAPI = new OpenAI({
-  apiKey: OPEN_API,
-  dangerouslyAllowBrowser: true
-});
+// const openAPI = new OpenAI({
+//   apiKey: OPEN_API,
+//   dangerouslyAllowBrowser: true
+// });
 
 
-export default openAPI;
+// export default openAPI;
